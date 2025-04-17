@@ -16,3 +16,7 @@ The versions listed here are the versions used at publication, but future or pas
 - rstan version 2.32.5
 
 - tidyverse version 2.0.0
+
+**Script:**
+
+diel_activity_rhythms_model.R : this is the code of our best selected model.
